@@ -1,2 +1,5 @@
-# Classification-of-Alzheimers-Disease-using-MachineLearning
-The primary aim of this project is to find the most efficient way of predicting the onset of Alzheimer's disease in a person aged over the age of 60 using Machine Learning concepts.
+# Classification  of Alzheimers Disease using MachineLearning
+
+This project aims to find the best machine learning classification methods to classify patients with Alzheimer's disease.
+
+AlzheimersDisease.ipynb has detailed information about how I have performed this and results obtained.
